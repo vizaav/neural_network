@@ -1,0 +1,125 @@
+POLISH
+
+Co to jest sztuczna inteligencja?
+Nie ma jednej, powszechnie uznanej definicji sztucznej inteligencji (AI), to samo dotyczy też samego terminu "inteligencja". Poniższy przegląd nie wyczerpuje wszystkich możliwych sposobów rozumienia tego terminu.
+
+Nauka o maszynach realizujących zadania, które wymagają inteligencji wówczas, gdy są wykonywane przez człowieka.
+
+Jest to jedna z antropocentrycznych definicji sztucznej inteligencji: przyjmujemy, że punktem odniesienia jest człowiek, inteligentny z definicji. Zauważmy jednak, że rozpoznanie twarzy na zdjęciu nie jest zwykle uznawane za przejaw inteligencji u człowieka, podczas gdy w przypadku komputera problem ten jest powszechnie uznany za należący do dziedziny sztucznej inteligencji. Z drugiej strony: przewidywanie skutków własnych działań (np. wyliczenie „brutalną siłą” wszystkich możliwych stanów w grze w kółko i krzyżyk) często nie jest uznawane za przejaw AI, podczas gdy bylibyśmy skłonni uznać to za przejaw inteligencji u człowieka.
+
+Maszyna jest inteligentna, jeżeli znajdujący się w drugim pomieszczeniu obserwator nie zdoła odróżnić jej odpowiedzi od odpowiedzi człowieka.
+
+Jest to tzw. test Turinga. Wadą tej definicji jest to, że uwzględnia ona tylko wąski aspekt inteligencji człowieka. Ponadto uważny "tester" będzie skłonny wyszukiwać w konwersacji raczej elementy mało wiążące się z inteligencją - np. emocjonalne wypowiedzi, drobne pomyłki itp.
+
+Dział informatyki, którego przedmiotem jest badanie reguł rządzących inteligentnymi zachowaniami człowieka, tworzenie modeli formalnych tych zachowań i - w rezultacie - programów komputerowych symulujących te zachowania.
+
+Kolejna definicja antropocentryczna. Odpowiada ona wielu rzeczywistym działom sztucznej inteligencji, jednak w wielu przypadkach okazuje się, że skuteczne rozwiązanie problemu przez komputer realizowane jest za pomocą zupełnie innych metod niż używane przez ludzi. Pojawia się pytanie: czy kryterium sztucznej inteligencji ma obejmować skutki działania programu, czy jego budowę wewnętrzną? Czy komputer wygrywający w warcaby tylko dzięki temu, że potrafi szybko sprawdzić wszystkie możliwe przebiegi gry, można uznać za sztucznie inteligentny?
+
+Dział informatyki uprawiany przez badaczy uważających się za specjalistów od AI i piszących książki z AI w tytule.
+
+Definicja czysto formalna i na pierwszy rzut oka tautologiczna, jednak zadziwiająco często wykorzystywana w praktyce (z braku lepszej).
+
+Nauka o tym, w jakich inteligentnych czynnościach człowieka można obyć się bez inteligencji.
+
+Definicja nieco żartobliwa i przewrotna: jeśli w czymś może komputer zastąpić człowieka, to znaczy, że to nie wymagało "prawdziwej" inteligencji. W podtekście negujemy w ogóle możliwość posiadania inteligencji przez maszynę.
+
+Warto przypomnieć najważniejsze aspekty inteligencji "naturalnej" (ludzkiej). Zgodnie z jedną z definicji, jeśli algorytm będzie realizował podobne zadania, zyska prawo do uznania go za sztucznie inteligentny.
+
+Inteligencja praktyczna: umiejętność rozwiązywania konkretnych zagadnień na podstawie ogólnej wiedzy i wcześniejszych doświadczeń.
+Inteligencja abstrakcyjna: zdolność operowania symbolami i pojęciami.
+Inteligencja społeczna: umiejętność zachowania się w grupie.
+Dopasowanie działania do okoliczności: wybieranie najlepszego wariantu rozwiązania danego problemu, reagowanie na zmieniające się warunki.
+Świadomość działania: droga od sformułowania problemu do rozwiązania może być przez człowieka objaśniona i uzasadniona.
+Znajomość własnych ograniczeń: inteligentny człowiek wie, na które pytania nie zna odpowiedzi.
+Historia AI
+Era prehistoryczna: Do około 1960 roku, kiedy pojawiły się powszechnie dostępne komputery. W tym okresie powstawały pierwsze koncepcje związane ze sztuczną inteligencją.
+
+Rysunek satyryczny, rok 1961Era romantyczna: 1960-1965, kiedy przewidywano, że AI osiągnie swoje cele w ciągu 10 lat i odniesiono sporo początkowych sukcesów. Komputery trafiły już do świadomości społecznej (por. rysunek obok), inteligentne (rozmowne i ruchliwe) roboty miały już lada dzień stać się elementem codzienności.
+
+Okres ciemności: 1965-1970, w którym niewiele się działo, opadł entuzjazm i pojawiły się głosy krytyczne. Wiele zadań, które wcześniej wydawały się stosunkowo łatwe, przerastało ówczesne możliwości sprzętowe i algorytmiczne (i często przerastają do dziś - np. problem odczytywania pisma ręcznego, wykonywania streszczenia tekstu, automatyczne tłumaczenia, rozpoznawanie w zadowalającym stopniu osób i przedmiotów na niewyraźnych zdjęciach).
+
+Renesans: 1970-1975, gdy zaczęto budować pierwsze użyteczne systemy doradcze. Okazało się, że stawiając przed sztuczną inteligencją ograniczone cele, można wiele osiągnąć w praktyce.
+
+Okres partnerstwa: 1975-1980, gdy do badań nad AI wprowadzono metody z nauk poznawczych i nauk o mózgu, itd.
+
+Okres komercjalizacji: 1980-..., gdy przymiotnik "inteligentny" stał się sloganem reklamowym, a takie technologie, jak sieci neuronowe i logika rozmyta stały się standardowym elementem instalacji przemysłowych i sprzętu AGD/RTV. Rosnąca moc obliczeniowa komputerów pozwoliła realizować "siłowo" zadania, dla których nie znaleziono rozwiązań "inteligentnych".
+
+Obecnie termin "sztuczna inteligencja" oznacza co najmniej dwa nurty badań:
+
+Stworzenie maszyn o inteligencji dorównującej (przewyższającej) ludzką. Są to często badania nad rozwiązaniami całościowymi, sprzętowymi, charakteryzujące się nierzadko wielkim rozmachem (np. projekt CYC - baza pojęć i faktów z języka naturalnego z możliwością wnioskowania i komunikacji z człowiekiem; projekt rozwijany już kilkadziesiąt lat).
+Stworzenie maszyn (algorytmów) przejawiających tylko wąski aspekt inteligencji (grających w szachy, rozpoznających obrazy, czy tworzących streszczenia tekstu). Dalsze wykłady będą koncentrowały się na tym nurcie sztucznej inteligencji.
+Postęp w dziedzinie metod algorytmicznych i możliwości sprzętowych, warunkujących skuteczność sztucznej inteligencji, można prześledzić na podstawie poniższego zestawienia osiągnięć w dziedzinie gier logicznych.
+
+Szachy
+
+Umiejętność gry w szachy była dawniej postrzegana jako probierz inteligencji maszynowej - jeśli maszyna potrafi pokonać człowieka w tak wymagającej intelektualnie rozgrywce, to znaczy, że jest (sztucznie) inteligentna. Obecnie komputery górują nad prawie wszystkimi ludzkimi szachistami, choć wielu uznaje to za triumf szybkości maszyn, a nie ich sztucznej inteligencji.
+
+ok. 1948 – pierwsze programy szachowe.
+1951 – A. Turing: Nikt nie jest w stanie ułożyć programu lepszego od własnego poziomu gry.
+1967 – pierwsze zwycięstwo komputera nad "profesjonalnym" szachistą podczas turnieju.
+1977 – pierwsze zwycięstwo nad mistrzem klasy międzynarodowej (jedna partia w symultanie).
+1997 – Deep Blue wygrywa pełny mecz z Kasparowem (specjalny superkomputer 418-procesorowy; wynik 3,5:2,5).
+2003 – Deep Junior remisuje z Kasparowem (8 zwykłych procesorów Intela 1,6 GHz; wynik 3:3). Mecz odbywał się na warunkach określonych przez Kasparowa: m.in. mógł on przez dłuższy czas przed rozgrywką trenować z Deep Juniorem, poznając jego słabe strony.
+Warcaby
+
+Gra w warcaby jest łatwiejsza niż sprawne przesuwanie pionkówW przeciwieństwie do szachów, problem gry w warcaby można uznać za w praktyce rozwiązany. Oznacza to, że w większości przypadków już po kilku posunięciach można podać wynik partii (przy założeniu optymalnej gry). Gra w warcaby na poziomie amatorskim jest, przy możliwościach obecnych komputerów, możliwa do zrealizowania w sposób "siłowy", tzn. poprzez cierpliwe wyliczanie drzewa gry. Programistycznie jest to zadanie o wiele łatwiejsze niż obsługa robota, który przesuwałby pionki na planszy i rozpoznawał ich pozycję za pomocą kamery (gdyby nie miały specjalnych, kontrastowych kolorów - por. zdjęcie obok).
+
+Pierwsze udane programy do gry w warcaby z elementami uczenia się (ewolucyjnego) powstawały już w 1952 r. (A. Samuel). W roku 1989 powstał program Chinook z biblioteką wszystkich końcówek 8-pionkowych (6 GB), który w 1992 przegrał (2:4) z mistrzem świata; kolejna jego wersja w 1996 zwyciężyła w ogólnokrajowym konkursie w USA. Aktualnym mistrzem świata jest program Nemesis.
+
+Go
+
+Gra go jest z kolei przykładem gry bardzo trudnej (z punktu widzenia komputera). Wiąże się to ze znacznie większym rozmiarem przestrzeni możliwych posunięć (choćby dlatego, że plansza do go ma 361 pól), co ogranicza możliwość wykorzystania czysto "siłowych" metod obliczeniowych. W efekcie najlepsze programy grają w go co najwyżej na poziomie zaawansowanego amatora.
+
+
+
+Systemy uczące się
+Systemy uczące się to programy komputerowe posiadające zdolność poprawiania jakości swojego działania poprzez zdobywanie nowych doświadczeń, które są następnie wykorzystywane podczas kolejnych interakcji ze środowiskiem. Kolejnym stopniem uczenia się są układy samoadaptacyjne, dobierające parametry pracy w zależności od efektów, a jednocześnie doskonalące strategię dalszego uczenia się (np. strategie ewolucyjne). Systemy uczące się są obecnie najlepiej rozwijajacą się i mającą największe znaczenie praktyczne dziedziną sztucznej inteligencji. Techniki będące przedmiotem tego wykładu w znacznej części będą miały zastosowanie właśnie w tego rodzaju systemach.
+
+Poniższy przegląd prezentuje wybrane zagadnienia i zastosowania systemów uczących się.
+
+Systemy eksperckie, systemy gromadzące wiedzę wyposażone w mechanizmy rozumowania logicznego.
+Komputerowe widzenie, analiza oraz rekonstrukcja obrazu.
+Rozpoznawanie obrazów, mowy, pisma, struktur chemicznych oraz biologicznych, stanu zdrowia, sensu wyrazów i zdań.
+Wspomaganie decyzji menedżerskich, diagnoz medycznych.
+Modelowanie gier, uczenie się na błędach.
+Sterowanie samochodami, robotami, fabrykami.
+Planowanie, optymalizacja wielokryterialna.
+Oczyszczanie obrazów, separacja sygnałów akustycznych.
+Prognozowanie wskaźników ekonomicznych, wspomaganie decyzji zakupu i sprzedaży.
+Łączenie informacji z wielu baz danych.
+Inteligentne szukanie wiedzy w bazach danych.
+Szczególnie wiele uwagi warto poświęcić systemom klasyfikującym (klasyfikatorom). Są to systemy uczące się działające według następującego schematu:
+
+opatrujemy pewien zbiór obiektów etykietami ("decyzjami") klasyfikującymi te obiekty do dwóch lub więcej grup
+prezentujemy obiekty wraz z etykietami systemowi klasyfikującemu (jest to tzw. zbiór danych treningowych)
+system klasyfikujący wykrywa różnice między obiektami i uczy się, jak powiązać te różnice z właściwą decyzją (etykietą)
+wiedza ta przechowywana jest w postaci pewnego modelu danych; wykorzystanie jej polega na tym, że prezentujemy klasyfikatorowi nowy obiekt i oczekujemy, że zostanie on automatycznie zaklasyfikowany do właściwej klasy.
+Przykład: nauczyć się odróżniania zdjęcia Marksa od pozostałych. Nauka polega na zaprezentowaniu wielu zdjęć z właściwym przyporządkowaniem:
+
+Trening klasyfikatora
+Wytrenowany klasyfikator powinien poradzić sobie ze zdjęciem, którego nie było w próbce treningowej:
+
+Użycie klasyfikatora
+Tematyka wykładu
+Program wykładu NAI obejmuje narzędzia algorytmiczne i metody ogólne wykorzystywane w zadaniach z zakresu sztucznej inteligencji. Nie będzie mowy o wielu szczegółowych technikach, związanych np. z analizą języka naturalnego czy analizą obrazu. Zamiast tego poznamy narzędzia uniwersalne, wykorzystywane w wielu, odległych nawet, zastosowaniach.
+
+Plan wykładu obejmuje m.in.:
+
+Sieci neuronowe: przegląd struktur oraz zastosowań, metody uczenia, propagacja wsteczna, sieci Hopfielda, sieci Kohonena.
+Problemy optymalizacji i przeszukiwania: heurystyki, złożoność obliczeniowa, przykłady i zastosowania.
+Algorytmy randomizowane: wychładzanie, strategie ewolucyjne, metody Monte Carlo.
+Algorytmy ewolucyjne: operatory genetyczne, metody hybrydowe i zastosowania.
+Termin "Sztuczna inteligencja" wiąże się ponadto z wieloma technikami i narzędziami, które nie zostaną omówione w ramach przedmiotu NAI:
+
+Teoria gier (tylko kilka uwag przy okazji programowania genetycznego).
+Eksploracja danych i odkrywanie wiedzy w bazach danych (data mining, KDD, omówimy tylko zarys problematyki).
+Automatyczne wnioskowanie i narzędzia do tego przeznaczone (programowanie w logice).
+Systemy wieloagentowe.
+Metody optymalizacji/aproksymacji typu numerycznego (np. programowanie liniowe i kwadratowe, klasyczne metody interpolacji).
+Słownik pojęć
+Szczegółowe definicje znajdują się w treści wykładu (słowa kluczowe zaznaczone są na czerwono).
+
+systemy klasyfikujące - systemy komputerowe pozwalające automatycznie przypisywać obiekty do klas zdefiniowanych uprzednio na podstawie przykładów
+systemy uczące się - systemy komputerowe mające zdolność do zdobywania doświadczeń i modyfikacji sposobu działania w interakcji z otoczeniem lub pod wpływem nowych danych
+sztuczna inteligencja - dział informatyki (definiowany na wiele różnych sposobów) będący przedmiotem tego wykładu
+test Turinga - klasyczne kryterium sztucznej inteligencji: komputer jest inteligentny, jeśli w rozmowie nie da się go odróżnić od człowieka

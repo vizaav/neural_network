@@ -1,0 +1,19 @@
+ENGLISH
+
+Sarah is a student who has always been passionate about artificial intelligence. She has been fascinated by the idea of creating machines that can think, learn, and make decisions like humans. Her love for AI has led her to pursue a degree in computer science and specialize in the field of artificial intelligence.
+
+One of her favorite subjects is NAI, which stands for Narzędzia Sztucznej Inteligencji. This subject covers the tools and techniques used in the development of AI systems. Sarah loves this subject because it gives her a deeper understanding of how AI works and how she can use it to solve real-world problems.
+
+As part of her coursework, Sarah has to write a one-layer neural network in Python. This is an important project for her because it will determine her final grade in the NAI course. Sarah is determined to do her best on this project because she wants to prove to herself and her professors that she truly understands the concepts and principles of AI.
+
+Sarah starts working on her neural network project by reviewing her notes and textbooks on the topic. She spends hours reading and researching the various techniques used in developing neural networks. She understands that a one-layer neural network is the simplest form of neural network, but she also knows that it is a fundamental building block for more complex neural networks.
+
+Sarah begins by setting up her development environment and installing the necessary libraries and tools. She then starts coding her neural network in Python. She uses her knowledge of Python programming to write a code that can read data, train the network, and predict outcomes.
+
+Sarah spends several days coding and testing her neural network. She runs multiple tests and experiments to make sure her neural network is functioning properly. She also fine-tunes the parameters of her network to achieve the best possible accuracy.
+
+Finally, Sarah submits her project to her professor. She waits anxiously for her professor's feedback, hoping to get a good grade. A few days later, her professor returns her project with a note that says "Excellent work, Sarah! Your neural network is well-designed and accurately predicts outcomes. Keep up the good work!"
+
+Sarah is overjoyed to receive such positive feedback from her professor. She knows that her hard work has paid off, and she has proven to herself that she has what it takes to excel in the field of artificial intelligence.
+
+In conclusion, Sarah is a student who is passionate about artificial intelligence and NAI. She worked hard on her one-layer neural network project in Python and was rewarded with an excellent grade. Her dedication and commitment to the field of AI will undoubtedly lead her to a successful career in this exciting and rapidly evolving field.

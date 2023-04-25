@@ -1,0 +1,23 @@
+GERMAN
+
+Was ist künstliche Intelligenz?
+
+Es gibt keine allgemein anerkannte Definition für künstliche Intelligenz (KI), dies gilt auch für den Begriff "Intelligenz" selbst. Die folgende Übersicht erschöpft nicht alle möglichen Arten, diesen Begriff zu verstehen.
+
+Es handelt sich um die Wissenschaft von Maschinen, die Aufgaben ausführen, die Intelligenz erfordern, wenn sie von einem Menschen ausgeführt werden.
+
+Dies ist eine anthropozentrische Definition von KI: Wir gehen davon aus, dass der Mensch als intelligentes Wesen der Maßstab ist. Beachten Sie jedoch, dass das Erkennen eines Gesichts auf einem Bild normalerweise nicht als Ausdruck von Intelligenz bei Menschen angesehen wird, während dies bei Computern allgemein als Teilbereich der künstlichen Intelligenz betrachtet wird. Andererseits wird die Vorhersage der Konsequenzen eigener Handlungen (z. B. die Berechnung aller möglichen Zustände in einem Spiel wie Tic-Tac-Toe mit "brutaler Kraft") oft nicht als Ausdruck von KI angesehen, während wir es als Ausdruck von Intelligenz bei Menschen betrachten würden.
+
+Eine Maschine ist intelligent, wenn ein Beobachter in einem anderen Raum ihre Antworten nicht von Antworten eines Menschen unterscheiden kann.
+
+Dies ist der sogenannte Turing-Test. Der Nachteil dieser Definition ist, dass sie nur einen engen Aspekt der menschlichen Intelligenz berücksichtigt. Außerdem wird ein aufmerksamer "Tester" wahrscheinlich eher nach Elementen suchen, die wenig mit Intelligenz zu tun haben, wie emotionale Aussagen, kleine Fehler usw.
+
+Es handelt sich um einen Bereich der Informatik, der sich mit der Untersuchung von Regeln befasst, die intelligentes menschliches Verhalten steuern, mit der Entwicklung formaler Modelle dieses Verhaltens und als Ergebnis mit der Erstellung von Computerprogrammen, die dieses Verhalten simulieren.
+
+Dies ist eine weitere anthropozentrische Definition. Es deckt viele reale Bereiche der künstlichen Intelligenz ab, aber oft stellt sich heraus, dass die effektive Lösung eines Problems durch den Computer mit völlig anderen Methoden erfolgt als von Menschen verwendet. Es stellt sich die Frage: Sollte das Kriterium für künstliche Intelligenz die Auswirkungen des Programms oder seine interne Struktur umfassen? Kann ein Computer, der nur durch schnelle Überprüfung aller möglichen Verläufe im Dame-Spiel gewinnt, als künstlich intelligent angesehen werden?
+
+Dies ist die Wissenschaft darüber, welche intelligenten menschlichen Aktivitäten ohne Intelligenz durchgeführt werden können.
+
+Dies ist eine etwas witzige und umgekehrte Definition: Wenn ein Computer etwas ersetzen kann, das ein Mensch tun würde, bedeutet dies, dass es keine "echte" Intelligenz erfordert hat. Im Subtext leugnen wir die Möglichkeit, dass eine Maschine Intelligenz besitzt.
+
+Es lohnt sich, die wichtigsten Aspekte der "natürlichen" Intelligenz (des Menschen) zu erwähnen. Entsprechend einer Definition, wenn ein Algorithmus ähnliche Aufgaben ausführt, hat er das Recht, als künstlich intelligent angesehen

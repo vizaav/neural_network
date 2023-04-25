@@ -1,0 +1,83 @@
+POLISH
+
+Gdyby PJATK była grą RPG, jakie dawałaby tool tipy podczas ładowania poziomów?
+
+"Tomas Fornalik [stud] Warsztaty "AWS Cloud Architect (...)"" W różnych iteracjach
+"its dangerous to go alone... Take this" i pod spodem link do mykhi
+"Ostroznie dobieraj klase bohatera, jej zmiana może duzo kosztować"
+"W jaskiniach znajdziesz wiele cennego lootu, ale musisz być ostrożny..."
+"Na końcu niektorych misji glownych czeka na Ciebie wyjatkowy przeciwnik, lepiej sie przygotuj"
+"Opłaca się zwalniać z egzaminów tam gdzie to tylko możliwe"
+"Tomaszew nie blefuje i rzadko się powtarza. Słuchaj go z uwagą"
+"Na promotora lepiej wziąć kogoś kto znajdzie dla Ciebie czas niż kogoś kto jest arcymistrzem danej dziedziny, ale jest wiecznie zajęty."
+"Gdy wybrałeś zajęcia z tańca na WF i chciałbyś je kontynuować, celowe niezdanie WFu jest tańsze niż kupienie karnetu w EDS."
+"Po ukończeniu każdego etapu możesz odebrać unikatowy hologram w lokacji Dziekanat"
+W drodze do dziekanatu po hologram wyskakuje komunikat: "Przed wyruszeniem w drogę, należy zebrać drużynę."
+"Wykładowcy nie zawsze będą obecni w przypisanych do nich lokacjach. Czasami będziesz musiał poczekać na następny event 'wykład' aby ich spotkać. Ich obecność lub nieobecność generowana jest losowo"
+"Ostrożnie dobieraj opcje dialogowe przy rozmowach z Kaliną. On zapamiętuje wszystko i nie przebacza"
+"Naturalnym środowiskiem studentów SNM są lochy i poddasza, gdzie można wejść w kontakt z chemią drukarską i grzybem na ścianie. Mają zatem zwiększoną odporność na trucizny i toksyczne środowisko"
+Gdy masz opcję zaliczyć wcześniej poziom (czytaj zaliczenie przedmiotu przed sesją), ABSOLUTNIE to zrób. Ryzyko przegranego poziomu w przypadku jego kontynuacji jest zwyczajnie zbyt duże.
+Rób wszystko co w twojej mocy, by uniknąć sesji. Zostaw ją jako ostateczność, bo w przypadku co najmniej kilku trudnych przedmiotów skala trudności egzaminu (w porównaniu do ćwiczeń) zmiecie Cię z planszy.
+
+
+
+Ten czerwiec dał mi do myślenia.
+Ciężkie studia zradzają silnych studentów.
+Silni studenci tworzą ciężkie studia.
+Ciężkie studia zradzają silnych studentów.
+Jakoś się żyje na tej uczelni w ten sposób...
+
+
+Zastanawiałem się skąd nagle takie fajne meble się pojawiły w nowym budynku. Przez tyle czasu nic nie było, a z dnia na dzień mamy cały parter w stołach i ławkach. Odpowiedź już się znalazła - dzisiaj dzień otwarty. Myślicie,że jutro już znikną?
+
+
+TOWARSZYSZE BRONI!
+Dostaję POGRÓŻKI od BIG DATA ale się nie poddajemy! UML BAD ĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄĄ
+A tak swoją drogą to trochę 6-cio semestralnych kart ze Slay the Spire. Pjatk DLC. Dałem z siebie całe 3% bo nie mam ani siły ani czasu na więcej xd
+
+
+>jest rok 2017
+>PJATK rozpoczął oferowanie kursów 4 letnich na pilota komercyjnego
+>super uczelnia, profesorowie są mili, uczą podstawowych rzeczy, procedury startowe, turbulencje, takie tam
+>wszystko idzie zgodnie z planem, jesteś już na drugim roku, zainwestowane 60k PLN i powiększone zakola od nauki
+>nowy przedmiot FASD - jako przyszły pilot musisz nauczyć się na pamięc rozkładu numeracji krzeseł w boeingu
+>FGUI, czyli piszecie w BASIC program, który oblicza najbardziej prawododobną lokalizacje zaginionego Malaysian Airlines
+>FGRK, czyli w photoshopie podmieniacie logo samolotu z RyanAir na LOT...
+>FMUL, odsłuchujecie czarne skrzynki z tupolewa... zaraz, to na pewno kurs na pilota?
+>3ci rok, 2020, pandemia
+>a ty musisz wylatać godziny na symulatorze
+>ale jest pandemia i szkoła nie oferuje zajęć na miejscu
+>zaliczenie to zaliczenie, trudno, co z tego ze nie mogłeś przyjść na zajęcia, bo ich nie było, upierdalasz przedmiot
+>depresja, stres, zainwestowene 180k PLN i 3 lata... ale jak nie przycisniesz to stracisz czas i pieniądze
+>przygotowujesz sie do egzaminu, ale nigdzie nie mozesz znalezc materiałów...
+>piszesz na studenckiej grupie FB, że potrzebujesz pomocy z zadaniami i egzaminem
+>odzywa się niejaki Grzegorz
+>350 PLN/h, ewentualnie mam kursanta co ci zrobi to za stałą cene 5500 PLN.
+>co mam robić?
+>Zostawiłeś u Grzegorza i jego kursantów 20k PLN, dyplom przyklepany, ukończyłeś uczelnie
+>wreszcie oficjalnie jestes pilotem, gratulacje, rodzina ci gratuluje, wszyzcy sa dumni
+>życie znowu nabiera sensu
+>pytaja czy bedziesz mial jakieś zniżki na bilety dla znajomych
+>hehe no pewnie tylko pierwsze musze znalezc prace 🙂
+>rok 2022, rynek pracy dla pilotów tak bardzo zniszczony
+>widzisz jak znajomi z roku rozwożą zapiekanki w UberEats bo nie moga znalezc pracy
+>z cudem udaje ci sie znalezc swoja pierwsza prace, ale troche daleko od domu, bo w China Eastern Airlines i tylko na loty wewnątrz kraju
+>przychodzisz na swój pierwszy dzien w pracy
+>jest 21 Marca 2022 r.
+
+
+Kolejny odcinek sagi z UMLem
+tl;dr wszystko fajnie oprócz use case
+Dobra, activity diagramy są fajne, ciężko mi zauważyć kiedy są użyteczne, ale są okej. Sequence się fajnie rysuje te kreski i prostokąty i tak dalej, nieczytelne jak moje pismo po japońsku, ale okej. State diagramy są w sumie nawet przydatne, bardziej do elektroniki, ale w sumie mała szkodliwość społeczna. Class diagramy, tyle się tam dzieje, ojoj, ajaj, strasznie sztuczna ta notacja z diamencikami i plusami i minusami i gwiazdkami, zamiast napisać jedno słowo czy coś, ale okej, fajne, przydatne jak mamy duży projekt i chcemy kogoś wprowadzić bez pokazania mu 200000 linijek kodu.
+ALE TE USE CASY NO KURDE
+CO TO JEST
+KTO TEGO UŻYWA
+JAKI TO W OGÓLE MA SENS I CO TO SOBĄ REPREZENTUJE
+extend coś robi ale nic nie robi? hyyyyy???
+(ale różnica między include i extend została mi bardzo fajnie wytłumaczona  )
+wszystkie źródła mówią mi sprzeczne info
+nie ma żadnej sensownej notacji na rozgałęziające się use case
+nawet assembler ma jumpy
+a use case to mają tylko szum
+welcome to land of use case diagrams
+where everything is made up and arrow directions don't matter

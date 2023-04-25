@@ -1,0 +1,19 @@
+GERMAN
+
+Sarah ist eine Studentin, die sich schon immer für künstliche Intelligenz begeistert hat. Sie ist von der Idee fasziniert, Maschinen zu erschaffen, die wie Menschen denken, lernen und Entscheidungen treffen können. Ihre Liebe zur KI hat sie dazu gebracht, ein Studium in Informatik zu absolvieren und sich auf den Bereich der künstlichen Intelligenz zu spezialisieren.
+
+Eines ihrer Lieblingsfächer ist NAI, das für "Narzędzia Sztucznej Inteligencji" steht. Dieses Fach behandelt die Werkzeuge und Techniken, die bei der Entwicklung von KI-Systemen eingesetzt werden. Sarah liebt dieses Fach, weil es ihr ein tieferes Verständnis dafür vermittelt, wie KI funktioniert und wie sie sie einsetzen kann, um reale Probleme zu lösen.
+
+Im Rahmen ihres Studiums muss Sarah einen einlagigen neuronalen Netzwerk in Python schreiben. Dies ist ein wichtiges Projekt für sie, da es ihre Abschlussnote im NAI-Kurs bestimmen wird. Sarah ist entschlossen, ihr Bestes zu geben, um sich selbst und ihren Professoren zu beweisen, dass sie die Konzepte und Prinzipien der KI wirklich versteht.
+
+Sarah beginnt mit der Arbeit an ihrem neuronalen Netzwerk-Projekt, indem sie ihre Notizen und Lehrbücher zum Thema durchgeht. Sie verbringt Stunden damit, die verschiedenen Techniken zu lesen und zu erforschen, die bei der Entwicklung von neuronalen Netzen verwendet werden. Sie weiß, dass ein einlagiges neuronales Netzwerk die einfachste Form eines neuronalen Netzes ist, aber sie weiß auch, dass es ein fundamentaler Baustein für komplexere neuronale Netze ist.
+
+Sarah beginnt damit, ihre Entwicklungsumgebung einzurichten und die notwendigen Bibliotheken und Werkzeuge zu installieren. Dann beginnt sie damit, ihr neuronales Netzwerk in Python zu programmieren. Sie nutzt ihr Wissen über die Programmiersprache Python, um einen Code zu schreiben, der Daten lesen, das Netzwerk trainieren und Vorhersagen treffen kann.
+
+Sarah verbringt mehrere Tage damit, ihr neuronales Netzwerk zu programmieren und zu testen. Sie führt mehrere Tests und Experimente durch, um sicherzustellen, dass ihr neuronales Netzwerk ordnungsgemäß funktioniert. Sie optimiert auch die Parameter ihres Netzwerks, um die bestmögliche Genauigkeit zu erzielen.
+
+Schließlich reicht Sarah ihr Projekt bei ihrem Professor ein. Sie wartet gespannt auf das Feedback ihres Professors und hofft auf eine gute Note. Ein paar Tage später erhält sie ihr Projekt von ihrem Professor zurück mit einer Notiz, die besagt: "Ausgezeichnete Arbeit, Sarah! Dein neuronales Netzwerk ist gut konzipiert und sagt Vorhersagen genau voraus. Mach weiter so!"
+
+Sarah ist überglücklich, solch positive Rückmeldungen von ihrem Professor zu erhalten. Sie weiß, dass sich ihre harte Arbeit ausgezahlt hat und dass sie sich selbst bewiesen hat, dass sie das Zeug hat, um in diesem aufregenden und schnelllebigen Bereich der künstlichen Intelligenz erfolgreich zu sein.
+
+Zusammenfassend ist Sarah eine Studentin, die sich für künstliche Intelligenz und NAI begeistert. Sie hat hart an ihrem einlagigen neuronalen

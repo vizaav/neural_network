@@ -1,0 +1,25 @@
+ENGLISH
+
+Introduction
+Polish Japanese Academy of Information Technology, located in Warsaw and Gdańsk, is one of the most prestigious Polish private universities. Founded in 1994, it has earned a reputation of academic excellence and a high level of knowledge among its graduates. This research, conducted among third-semester students of computer science, aimed to investigate participants’ experiences and views on their studies.
+
+Survey data
+The questionnaire containing only closed questions was answered by twenty anonymous respondents.
+First, participants were asked to rate their level of satisfaction with their lecturers from zero to ten. No one claimed to be fully content. 40% answered between 6 and 8, 45% between 3 and 5, and 15% below 2. Most respondents seemed to be mildly satisfied.
+
+Next, the participants were asked two questions about the Student Council. In the first one, they rated their satisfaction with the institution and its work, and in the second one, whether they have participated in any events organized by it. 45% of the respondents responded to the first question with a rating of five, which might suggest that many of them did not have a strong opinion on the matter. Three of the respondents were very dissatisfied.
+When it comes to the events organized by the student council, 40% of the students have never attended any of them, the rest claimed to have attended a few, as shown in the chart below.
+
+Next, the participants were asked two questions about BSS (Baza Sprzętowo-Systemowa), which is the university's technical support.
+In the first question, students were asked about their satisfaction with BSS’s work overall. As shown in the chart below, most of them were mildly satisfied.
+
+In the second question, the students were asked whether they thought that technical issues that they might have experienced so far had been handled well, both by their teachers and BSS. The answers varied, with 15% rating the received support from 8 to 10, 45% from 5 to 7, 30% from 2 to 4, and 10% from 0 to 1.
+Next, the participants were asked to what extent they had participated in any extracurricular activities in the university. While a few remained active, 60% answered that they have never participated in any of them.
+In the next question, all of the participants answered that classrooms in PJAIT are well-equipped, with no one giving a rating below 6.
+When asked about the frequency of using the cloakroom, 30% of the participants responded with 0, 45% used it sometimes, and 25% used it often.
+The last two questions regarded overall satisfaction with PJAIT. In the first one of these, the participants rated it very high, with 5% answering with a rating of 10, 5% with 9, 35% with 8, another 35% with 7, 5% with 6, another 5% with 5, 5% with 4. One person claimed to be completely dissatisfied, giving the rating of 0. However, most respondents answered that their expectations towards PJAIT have been met, with 80% rating it 6 or above.
+
+Focus group data
+A focus group was conducted with four participants to get more detailed insights into their views. Five main questions were asked, and the responses will be summarized below.
+Is there anything that you expected of PJAIT that simply was not there? Were you disappointed with something or expected something that turned out not to be true?
+Participant MV said
