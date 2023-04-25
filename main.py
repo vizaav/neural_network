@@ -63,13 +63,7 @@ class Perceptron:
                 self.weights[letter] += letters[letter] * Perceptron.learning_rate * k
 
     def fully_train(self):
-        # iterates through all files and trains the perceptron
-        # files = []
-        # for i in range(0, 9):
-        #     files.append('data/English/English' + str(i + 1) + '.txt')
-        #     files.append('data/Polish/Polish' + str(i + 1) + '.txt')
-        #     files.append('data/German/German' + str(i + 1) + '.txt')
-        # random.shuffle(files)
+
         data_folder = 'data'
         files = []
         for language_folder in os.listdir(data_folder):
@@ -84,12 +78,6 @@ class Perceptron:
         for i in range(0, number_of_eras):
             progress_bar(i, number_of_eras)
             for file in files:
-                # if file.startswith('data/English'):
-                #     self.train(file, 'ENGLISH')
-                # elif file.startswith('data/Polish'):
-                #     self.train(file, 'POLISH')
-                # elif file.startswith('data/German'):
-                #     self.train(file, 'GERMAN')
                 divided_path = file.split('\\')
                 self.train(file, divided_path[1].upper())
                 # else:
@@ -111,19 +99,6 @@ for language_folder in language_folders:
     print('TRAINING ' + language_folder.upper())
     perceptrons.append(Perceptron(language_folder.upper()))
     print("")
-
-
-# print("TRAINING ENGLISH")
-# english = Perceptron('ENGLISH')
-# print("\nTRAINING POLISH\r")
-# polish = Perceptron('POLISH')
-# print("\nTRAINING GERMAN")
-# german = Perceptron('GERMAN')
-
-
-# print("\n" + english.language + ' ' + str(english.weights.__len__()) + ' ' + str(english.weights))
-# print(polish.language + ' ' + str(polish.weights.__len__()) + ' ' + str(polish.weights))
-# print(german.language + ' ' + str(german.weights.__len__()) + ' ' + str(german.weights))
 
 
 class NeuralNetwork:
@@ -156,17 +131,13 @@ class NeuralNetwork:
                 return perceptron.language
         return 'UNKNOWN'
 
-        # return nonbinaries.sort(reverse=True)[0].language
 
-
-# insert all ekements of the list into the neural network
 network = NeuralNetwork(*perceptrons)
-# print("I'm ready to recognize languages!")
-# print("Now, let's see what i can do!")
+
 correct = 0
 incorrect = 0
 files = []
-# for i in range(0, 100):
+
 for language_folder in os.listdir('data'):
     language_folder_path = os.path.join('data', language_folder)
     if os.path.isdir(language_folder_path):
@@ -180,19 +151,8 @@ for file in files:
         correct += 1
     else:
         incorrect += 1
-    # if network.recognize('data/English/English' + str(i % 10) + '.txt') == 'ENGLISH':
-    #     correct += 1
-    # else:
-    #     incorrect += 1
-    # if network.recognize('data/Polish/Polish' + str(i % 10) + '.txt') == 'POLISH':
-    #     correct += 1
-    # else:
-    #     incorrect += 1
-    # if network.recognize('data/German/German' + str(i % 10) + '.txt') == 'GERMAN':
-    #     correct += 1
-    # else:
-    #     incorrect += 1
-print('\nMy rate of success is ' + str(correct / (correct + incorrect) * 100) + '%')
+
+print('\nMy rate of success is ' + str(correct / (correct + incorrect) * 100) + '% for long texts.')
 
 """
 GUI
